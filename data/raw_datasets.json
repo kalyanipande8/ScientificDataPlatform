@@ -1,0 +1,6434 @@
+[
+  {
+    "study_id": "STUDY-0146",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 146",
+    "publication_year": 2022,
+    "sample_size": 2904,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.465,
+        "p_value": 0.00423,
+        "n_samples": 614
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.304,
+        "p_value": 0.00308,
+        "n_samples": 867
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.545,
+        "p_value": 0.05847,
+        "n_samples": 793
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.767,
+        "p_value": 0.14797,
+        "n_samples": 359
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.462,
+        "p_value": 0.32144,
+        "n_samples": 431
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0016",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 16",
+    "publication_year": 2020,
+    "sample_size": 2331,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": 0.048,
+        "p_value": 0.09812,
+        "n_samples": 4233
+      },
+      {
+        "entity": "recurrence_rate",
+        "metric": "effect_size",
+        "value": 0.477,
+        "p_value": 0.10824,
+        "n_samples": 3670
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.141,
+        "p_value": 0.07028,
+        "n_samples": 2644
+      },
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.273,
+        "p_value": 0.04809,
+        "n_samples": 806
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.6,
+        "p_value": 0.05148,
+        "n_samples": 80
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0070",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 70",
+    "publication_year": 2016,
+    "sample_size": 449,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.37,
+        "p_value": 0.04169,
+        "n_samples": 88
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": 0.296,
+        "p_value": 0.07251,
+        "n_samples": 2970
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.499,
+        "p_value": 0.13315,
+        "n_samples": 176
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.577,
+        "p_value": 0.03257,
+        "n_samples": 3138
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.79,
+        "p_value": 0.04736,
+        "n_samples": 835
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-1000-MALFORMED",
+    "title": "Clinical Outcome study 1000",
+    "publication_year": 2020,
+    "sample_size": 3166,
+    "findings": [
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.061,
+        "p_value": 0.03005,
+        "n_samples": 1019
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.937,
+        "p_value": 0.05104,
+        "n_samples": 1956
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.515,
+        "p_value": 0.16037,
+        "n_samples": 3239
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0141",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 141",
+    "publication_year": 2018,
+    "sample_size": 1561,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.772,
+        "p_value": 0.08108,
+        "n_samples": 179
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.937,
+        "p_value": 0.0229,
+        "n_samples": 9
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 1.238,
+        "p_value": 0.00556,
+        "n_samples": 118
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": 0.394,
+        "p_value": 0.03698,
+        "n_samples": 179
+      },
+      {
+        "entity": "IDH1",
+        "metric": "log2_fold_change",
+        "value": -0.053,
+        "p_value": 0.02559,
+        "n_samples": 157
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0035",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 35",
+    "publication_year": 2018,
+    "sample_size": 58,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -1.077,
+        "p_value": 0.10877,
+        "n_samples": 853
+      },
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.042,
+        "p_value": 0.03811,
+        "n_samples": 75
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.482,
+        "p_value": 0.02035,
+        "n_samples": 389
+      },
+      {
+        "entity": "Lisinopril",
+        "metric": "effect_size",
+        "value": -0.347,
+        "p_value": 0.03234,
+        "n_samples": 420
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.32,
+        "p_value": 0.06346,
+        "n_samples": 543
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.405,
+        "p_value": 0.00395,
+        "n_samples": 802
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0079",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 79",
+    "publication_year": 2014,
+    "sample_size": 1027,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.322,
+        "p_value": 0.00637,
+        "n_samples": 3701
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.11,
+        "p_value": 0.0819,
+        "n_samples": 4211
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.271,
+        "p_value": 0.06313,
+        "n_samples": 1329
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.617,
+        "p_value": 0.09748,
+        "n_samples": 2765
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.459,
+        "p_value": 0.05557,
+        "n_samples": 1249
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0122",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 122",
+    "publication_year": 2020,
+    "sample_size": 1692,
+    "findings": [
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.18,
+        "p_value": 0.00993,
+        "n_samples": 352
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.479,
+        "p_value": 0.0434,
+        "n_samples": 971
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.507,
+        "p_value": 0.09303,
+        "n_samples": 902
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.031,
+        "p_value": 0.0911,
+        "n_samples": 240
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0051",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 51",
+    "publication_year": 2016,
+    "sample_size": 89,
+    "findings": [
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.332,
+        "p_value": 0.07259,
+        "n_samples": 80
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": -0.478,
+        "p_value": 0.03973,
+        "n_samples": 54
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": -0.813,
+        "p_value": 0.02653,
+        "n_samples": 149
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.36,
+        "p_value": 0.06275,
+        "n_samples": 171
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-1004-MALFORMED",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 1004",
+    "publication_year": -5,
+    "sample_size": 3029,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.007,
+        "p_value": 0.00095,
+        "n_samples": 548
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.28,
+        "p_value": 0.03808,
+        "n_samples": 952
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": 0.016,
+        "p_value": 0.04543,
+        "n_samples": 239
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.115,
+        "p_value": 0.08335,
+        "n_samples": 205
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0039",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 39",
+    "publication_year": 2013,
+    "sample_size": 2127,
+    "findings": [
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": 0.435,
+        "p_value": 0.25748,
+        "n_samples": 179
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.13,
+        "p_value": 0.0604,
+        "n_samples": 86
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.817,
+        "p_value": 0.03836,
+        "n_samples": 185
+      },
+      {
+        "entity": "JAK2",
+        "metric": "log2_fold_change",
+        "value": -0.647,
+        "p_value": 0.08924,
+        "n_samples": 69
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0076",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 76",
+    "publication_year": 2019,
+    "sample_size": 4028,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.481,
+        "p_value": 0.1457,
+        "n_samples": 3522
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.904,
+        "p_value": 0.0346,
+        "n_samples": 362
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.047,
+        "p_value": 0.08491,
+        "n_samples": 3248
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0050",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 50",
+    "publication_year": 2017,
+    "sample_size": 3960,
+    "findings": [
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.585,
+        "p_value": 0.03888,
+        "n_samples": 384
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.624,
+        "p_value": 0.03542,
+        "n_samples": 169
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.359,
+        "p_value": 0.11263,
+        "n_samples": 878
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0132",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 132",
+    "publication_year": 2018,
+    "sample_size": 1447,
+    "findings": [
+      {
+        "entity": "JAK2",
+        "metric": "log2_fold_change",
+        "value": -1.827,
+        "p_value": 0.07037,
+        "n_samples": 41
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": -0.524,
+        "p_value": 0.01111,
+        "n_samples": 103
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.609,
+        "p_value": 0.08652,
+        "n_samples": 83
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.656,
+        "p_value": 0.08996,
+        "n_samples": 83
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": -0.004,
+        "p_value": 0.01271,
+        "n_samples": 6
+      },
+      {
+        "entity": "IDH1",
+        "metric": "log2_fold_change",
+        "value": -0.304,
+        "p_value": 0.00836,
+        "n_samples": 82
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0057",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 57",
+    "publication_year": 2019,
+    "sample_size": 1595,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.659,
+        "p_value": 0.06444,
+        "n_samples": 70
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.138,
+        "p_value": 0.11447,
+        "n_samples": 130
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.547,
+        "p_value": 0.03912,
+        "n_samples": 131
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": -0.339,
+        "p_value": 0.01052,
+        "n_samples": 53
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.851,
+        "p_value": 0.03159,
+        "n_samples": 159
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0054",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 54",
+    "publication_year": 2013,
+    "sample_size": 1211,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.321,
+        "p_value": 0.00288,
+        "n_samples": 106
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.389,
+        "p_value": 0.01067,
+        "n_samples": 70
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.353,
+        "p_value": 0.08498,
+        "n_samples": 9
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": 0.399,
+        "p_value": 0.01431,
+        "n_samples": 119
+      },
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": 0.871,
+        "p_value": 0.0142,
+        "n_samples": 14
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0046",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 46",
+    "publication_year": 2018,
+    "sample_size": 2362,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.86,
+        "p_value": 0.13513,
+        "n_samples": 2783
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": 0.101,
+        "p_value": 0.03652,
+        "n_samples": 4702
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": -0.16,
+        "p_value": 0.00549,
+        "n_samples": 2834
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.717,
+        "p_value": 0.01727,
+        "n_samples": 2615
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0095",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 95",
+    "publication_year": 2021,
+    "sample_size": 4001,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.186,
+        "p_value": 0.02624,
+        "n_samples": 109
+      },
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": 0.046,
+        "p_value": 0.11507,
+        "n_samples": 190
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.169,
+        "p_value": 0.0608,
+        "n_samples": 711
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.106,
+        "p_value": 0.11216,
+        "n_samples": 799
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.116,
+        "p_value": 0.06904,
+        "n_samples": 72
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0123",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 123",
+    "publication_year": 2019,
+    "sample_size": 3998,
+    "findings": [
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 0.835,
+        "p_value": 0.0348,
+        "n_samples": 37
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": -0.746,
+        "p_value": 0.08726,
+        "n_samples": 80
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.918,
+        "p_value": 0.03007,
+        "n_samples": 100
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": 0.106,
+        "p_value": 0.08272,
+        "n_samples": 22
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0105",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 105",
+    "publication_year": 2016,
+    "sample_size": 3916,
+    "findings": [
+      {
+        "entity": "IL6",
+        "metric": "log2_fold_change",
+        "value": 0.836,
+        "p_value": 0.03802,
+        "n_samples": 103
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": -0.922,
+        "p_value": 0.05752,
+        "n_samples": 105
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": -0.532,
+        "p_value": 0.10212,
+        "n_samples": 9
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.113,
+        "p_value": 0.01704,
+        "n_samples": 120
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": -0.405,
+        "p_value": 0.03778,
+        "n_samples": 16
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.753,
+        "p_value": 0.00512,
+        "n_samples": 142
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0012",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 12",
+    "publication_year": 2016,
+    "sample_size": 2067,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.103,
+        "p_value": 0.00792,
+        "n_samples": 21
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": -0.383,
+        "p_value": 0.07004,
+        "n_samples": 14
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.073,
+        "p_value": 0.02221,
+        "n_samples": 121
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0155",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 155",
+    "publication_year": 2020,
+    "sample_size": 3486,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.573,
+        "p_value": 0.04294,
+        "n_samples": 262
+      },
+      {
+        "entity": "Trastuzumab",
+        "metric": "effect_size",
+        "value": 0.581,
+        "p_value": 0.18428,
+        "n_samples": 381
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.201,
+        "p_value": 0.04299,
+        "n_samples": 386
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.387,
+        "p_value": 0.22702,
+        "n_samples": 630
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.286,
+        "p_value": 0.00236,
+        "n_samples": 767
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0041",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 41",
+    "publication_year": 2021,
+    "sample_size": 2265,
+    "findings": [
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.301,
+        "p_value": 0.04499,
+        "n_samples": 792
+      },
+      {
+        "entity": "Empagliflozin",
+        "metric": "effect_size",
+        "value": -0.26,
+        "p_value": 0.01674,
+        "n_samples": 600
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.483,
+        "p_value": 0.00915,
+        "n_samples": 548
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.464,
+        "p_value": 0.05188,
+        "n_samples": 524
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.556,
+        "p_value": 0.02844,
+        "n_samples": 891
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0075",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 75",
+    "publication_year": 2015,
+    "sample_size": 4900,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.182,
+        "p_value": 0.02226,
+        "n_samples": 182
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": 0.709,
+        "p_value": 0.07567,
+        "n_samples": 40
+      },
+      {
+        "entity": "VEGFA",
+        "metric": "log2_fold_change",
+        "value": -1.217,
+        "p_value": 0.06224,
+        "n_samples": 101
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.528,
+        "p_value": 0.01017,
+        "n_samples": 105
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.074,
+        "p_value": 0.01074,
+        "n_samples": 14
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.322,
+        "p_value": 0.02626,
+        "n_samples": 9
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0052",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 52",
+    "publication_year": 2023,
+    "sample_size": 2242,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.177,
+        "p_value": 0.02233,
+        "n_samples": 4377
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.453,
+        "p_value": 0.12804,
+        "n_samples": 1514
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.681,
+        "p_value": 0.00979,
+        "n_samples": 924
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0047",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 47",
+    "publication_year": 2017,
+    "sample_size": 4823,
+    "findings": [
+      {
+        "entity": "Dexamethasone",
+        "metric": "effect_size",
+        "value": -0.385,
+        "p_value": 0.01221,
+        "n_samples": 884
+      },
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.503,
+        "p_value": 0.00156,
+        "n_samples": 755
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.468,
+        "p_value": 0.09081,
+        "n_samples": 777
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.587,
+        "p_value": 0.00556,
+        "n_samples": 180
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0091",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 91",
+    "publication_year": 2013,
+    "sample_size": 3508,
+    "findings": [
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": 0.056,
+        "p_value": 0.03316,
+        "n_samples": 4903
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.563,
+        "p_value": 0.07811,
+        "n_samples": 3672
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.662,
+        "p_value": 0.06386,
+        "n_samples": 2579
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0151",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 151",
+    "publication_year": 2021,
+    "sample_size": 3568,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": 0.119,
+        "p_value": 0.00412,
+        "n_samples": 1663
+      },
+      {
+        "entity": "recurrence_rate",
+        "metric": "effect_size",
+        "value": 0.269,
+        "p_value": 0.0302,
+        "n_samples": 1230
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.415,
+        "p_value": 0.0967,
+        "n_samples": 3586
+      },
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": 0.123,
+        "p_value": 0.0352,
+        "n_samples": 547
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.088,
+        "p_value": 0.0207,
+        "n_samples": 2371
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0048",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 48",
+    "publication_year": 2012,
+    "sample_size": 230,
+    "findings": [
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.244,
+        "p_value": 0.27624,
+        "n_samples": 32
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": -0.645,
+        "p_value": 0.01522,
+        "n_samples": 45
+      },
+      {
+        "entity": "AKT1",
+        "metric": "log2_fold_change",
+        "value": 1.699,
+        "p_value": 0.0247,
+        "n_samples": 64
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0085",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 85",
+    "publication_year": 2024,
+    "sample_size": 570,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.616,
+        "p_value": 0.02452,
+        "n_samples": 4170
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": -0.116,
+        "p_value": 0.00806,
+        "n_samples": 2750
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.572,
+        "p_value": 0.02784,
+        "n_samples": 4680
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0120",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 120",
+    "publication_year": 2012,
+    "sample_size": 3346,
+    "findings": [
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.196,
+        "p_value": 0.01753,
+        "n_samples": 171
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.441,
+        "p_value": 0.34303,
+        "n_samples": 10
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.848,
+        "p_value": 0.06075,
+        "n_samples": 152
+      },
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": 0.225,
+        "p_value": 0.06877,
+        "n_samples": 12
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.323,
+        "p_value": 0.00746,
+        "n_samples": 186
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0003",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 3",
+    "publication_year": 2023,
+    "sample_size": 3932,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": -0.873,
+        "p_value": 0.08045,
+        "n_samples": 172
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.354,
+        "p_value": 0.00711,
+        "n_samples": 191
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.578,
+        "p_value": 0.00302,
+        "n_samples": 46
+      },
+      {
+        "entity": "ALK",
+        "metric": "log2_fold_change",
+        "value": 1.69,
+        "p_value": 0.03295,
+        "n_samples": 151
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0013",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 13",
+    "publication_year": 2022,
+    "sample_size": 399,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.028,
+        "p_value": 0.20931,
+        "n_samples": 2581
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.15,
+        "p_value": 0.2251,
+        "n_samples": 460
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.55,
+        "p_value": 0.0646,
+        "n_samples": 3649
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.305,
+        "p_value": 0.11812,
+        "n_samples": 3032
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.42,
+        "p_value": 0.06165,
+        "n_samples": 1605
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0008",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 8",
+    "publication_year": 2024,
+    "sample_size": 1576,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.52,
+        "p_value": 0.03568,
+        "n_samples": 958
+      },
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.36,
+        "p_value": 0.06687,
+        "n_samples": 698
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.498,
+        "p_value": 0.03992,
+        "n_samples": 684
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.453,
+        "p_value": 0.05933,
+        "n_samples": 526
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.594,
+        "p_value": 0.05039,
+        "n_samples": 59
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0049",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 49",
+    "publication_year": 2017,
+    "sample_size": 2679,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": 0.043,
+        "p_value": 0.13313,
+        "n_samples": 3847
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.598,
+        "p_value": 0.0212,
+        "n_samples": 3664
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.489,
+        "p_value": 0.00968,
+        "n_samples": 4437
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0028",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 28",
+    "publication_year": 2016,
+    "sample_size": 2172,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.576,
+        "p_value": 0.03151,
+        "n_samples": 3120
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.404,
+        "p_value": 0.03031,
+        "n_samples": 657
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.282,
+        "p_value": 0.15852,
+        "n_samples": 4250
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.465,
+        "p_value": 0.03471,
+        "n_samples": 2846
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0002",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 2",
+    "publication_year": 2017,
+    "sample_size": 2943,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.736,
+        "p_value": 0.14995,
+        "n_samples": 988
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.674,
+        "p_value": 0.0065,
+        "n_samples": 844
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 1003",
+    "publication_year": 2025,
+    "sample_size": 2698,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": 0.002,
+        "p_value": 0.10714,
+        "n_samples": 1647
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.556,
+        "p_value": 0.03334,
+        "n_samples": 3111
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.481,
+        "p_value": 0.19307,
+        "n_samples": 4692
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.387,
+        "p_value": 0.17103,
+        "n_samples": 1893
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 1.01,
+        "p_value": 0.15823,
+        "n_samples": 3808
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0069",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 69",
+    "publication_year": 2012,
+    "sample_size": 2827,
+    "findings": [
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": 0.305,
+        "p_value": 0.05918,
+        "n_samples": 34
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": 0.75,
+        "p_value": 0.02016,
+        "n_samples": 195
+      },
+      {
+        "entity": "NOTCH1",
+        "metric": "log2_fold_change",
+        "value": -0.023,
+        "p_value": 0.03861,
+        "n_samples": 58
+      },
+      {
+        "entity": "JAK2",
+        "metric": "log2_fold_change",
+        "value": -1.897,
+        "p_value": 0.03979,
+        "n_samples": 165
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0038",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 38",
+    "publication_year": 2020,
+    "sample_size": 2126,
+    "findings": [
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.166,
+        "p_value": 0.13923,
+        "n_samples": 842
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.421,
+        "p_value": 0.03898,
+        "n_samples": 396
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.449,
+        "p_value": 0.05521,
+        "n_samples": 798
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0017",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 17",
+    "publication_year": 2022,
+    "sample_size": 3490,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.472,
+        "p_value": 0.12039,
+        "n_samples": 220
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.944,
+        "p_value": 0.24927,
+        "n_samples": 803
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0113",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 113",
+    "publication_year": 2025,
+    "sample_size": 1761,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": 0.296,
+        "p_value": 0.02725,
+        "n_samples": 133
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.891,
+        "p_value": 0.02134,
+        "n_samples": 785
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.629,
+        "p_value": 0.05374,
+        "n_samples": 459
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0144",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 144",
+    "publication_year": 2020,
+    "sample_size": 4047,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.167,
+        "p_value": 0.05425,
+        "n_samples": 131
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.011,
+        "p_value": 0.03514,
+        "n_samples": 144
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": -0.86,
+        "p_value": 0.03955,
+        "n_samples": 14
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.649,
+        "p_value": 0.23395,
+        "n_samples": 36
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0030",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 30",
+    "publication_year": 2021,
+    "sample_size": 1218,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.408,
+        "p_value": 0.00288,
+        "n_samples": 72
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.719,
+        "p_value": 0.026,
+        "n_samples": 150
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.441,
+        "p_value": 0.05075,
+        "n_samples": 190
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.494,
+        "p_value": 0.14711,
+        "n_samples": 61
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0042",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 42",
+    "publication_year": 2012,
+    "sample_size": 111,
+    "findings": [
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.609,
+        "p_value": 0.00531,
+        "n_samples": 98
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": -0.441,
+        "p_value": 0.04744,
+        "n_samples": 72
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.58,
+        "p_value": 0.0157,
+        "n_samples": 162
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0099",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 99",
+    "publication_year": 2025,
+    "sample_size": 3701,
+    "findings": [
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.446,
+        "p_value": 0.02428,
+        "n_samples": 63
+      },
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 1.261,
+        "p_value": 0.04313,
+        "n_samples": 193
+      },
+      {
+        "entity": "NOTCH1",
+        "metric": "log2_fold_change",
+        "value": 0.092,
+        "p_value": 0.01351,
+        "n_samples": 134
+      },
+      {
+        "entity": "AKT1",
+        "metric": "log2_fold_change",
+        "value": 0.335,
+        "p_value": 0.04294,
+        "n_samples": 14
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 1.421,
+        "p_value": 0.19137,
+        "n_samples": 151
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": -0.592,
+        "p_value": 0.04341,
+        "n_samples": 182
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.28,
+        "p_value": 0.00417,
+        "n_samples": 192
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.542,
+        "p_value": 0.20573,
+        "n_samples": 77
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0088",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 88",
+    "publication_year": 2025,
+    "sample_size": 2494,
+    "findings": [
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": 0.005,
+        "p_value": 0.00794,
+        "n_samples": 326
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.497,
+        "p_value": 0.10028,
+        "n_samples": 778
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.297,
+        "p_value": 0.04394,
+        "n_samples": 4116
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.421,
+        "p_value": 0.01116,
+        "n_samples": 2806
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0083",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 83",
+    "publication_year": 2018,
+    "sample_size": 569,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.282,
+        "p_value": 0.09471,
+        "n_samples": 873
+      },
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.457,
+        "p_value": 0.00963,
+        "n_samples": 721
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.138,
+        "p_value": 0.13079,
+        "n_samples": 347
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.541,
+        "p_value": 0.07934,
+        "n_samples": 636
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.298,
+        "p_value": 0.004,
+        "n_samples": 595
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.284,
+        "p_value": 0.2905,
+        "n_samples": 505
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0131",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 131",
+    "publication_year": 2023,
+    "sample_size": 3419,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.098,
+        "p_value": 0.10921,
+        "n_samples": 929
+      },
+      {
+        "entity": "Dexamethasone",
+        "metric": "effect_size",
+        "value": -0.294,
+        "p_value": 0.03676,
+        "n_samples": 927
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.549,
+        "p_value": 0.06074,
+        "n_samples": 157
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.653,
+        "p_value": 0.01553,
+        "n_samples": 496
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0125",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 125",
+    "publication_year": 2016,
+    "sample_size": 1563,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": 0.071,
+        "p_value": 0.01763,
+        "n_samples": 980
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.174,
+        "p_value": 0.04888,
+        "n_samples": 353
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.594,
+        "p_value": 0.06924,
+        "n_samples": 344
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.505,
+        "p_value": 0.04439,
+        "n_samples": 691
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.419,
+        "p_value": 0.03928,
+        "n_samples": 321
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0061",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 61",
+    "publication_year": 2023,
+    "sample_size": 879,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.722,
+        "p_value": 0.09691,
+        "n_samples": 4743
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.116,
+        "p_value": 0.07296,
+        "n_samples": 872
+      },
+      {
+        "entity": "recurrence_rate",
+        "metric": "effect_size",
+        "value": 0.646,
+        "p_value": 0.01217,
+        "n_samples": 1497
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.722,
+        "p_value": 0.07144,
+        "n_samples": 4393
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0037",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 37",
+    "publication_year": 2023,
+    "sample_size": 577,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": 0.026,
+        "p_value": 0.08634,
+        "n_samples": 4600
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.206,
+        "p_value": 0.16435,
+        "n_samples": 2871
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.704,
+        "p_value": 0.0171,
+        "n_samples": 1613
+      },
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": 0.086,
+        "p_value": 0.04044,
+        "n_samples": 3329
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.117,
+        "p_value": 0.03485,
+        "n_samples": 892
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0068",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 68",
+    "publication_year": 2025,
+    "sample_size": 3637,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.411,
+        "p_value": 0.17199,
+        "n_samples": 249
+      },
+      {
+        "entity": "Ruxolitinib",
+        "metric": "effect_size",
+        "value": -0.346,
+        "p_value": 0.01485,
+        "n_samples": 392
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.63,
+        "p_value": 0.00598,
+        "n_samples": 767
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0025",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 25",
+    "publication_year": 2016,
+    "sample_size": 1161,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.122,
+        "p_value": 0.08817,
+        "n_samples": 646
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.186,
+        "p_value": 0.08666,
+        "n_samples": 172
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.567,
+        "p_value": 0.11165,
+        "n_samples": 4762
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.726,
+        "p_value": 0.03463,
+        "n_samples": 4853
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0007",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 7",
+    "publication_year": 2013,
+    "sample_size": 1831,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.016,
+        "p_value": 0.06695,
+        "n_samples": 2411
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.293,
+        "p_value": 0.05289,
+        "n_samples": 3082
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.327,
+        "p_value": 0.01195,
+        "n_samples": 1170
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.337,
+        "p_value": 0.115,
+        "n_samples": 3372
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0096",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 96",
+    "publication_year": 2012,
+    "sample_size": 1216,
+    "findings": [
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 0.456,
+        "p_value": 0.05407,
+        "n_samples": 121
+      },
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -1.085,
+        "p_value": 0.04313,
+        "n_samples": 56
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.056,
+        "p_value": 0.01151,
+        "n_samples": 87
+      },
+      {
+        "entity": "STAT3",
+        "metric": "log2_fold_change",
+        "value": 0.392,
+        "p_value": 0.0569,
+        "n_samples": 117
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0107",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 107",
+    "publication_year": 2012,
+    "sample_size": 209,
+    "findings": [
+      {
+        "entity": "Pembrolizumab",
+        "metric": "effect_size",
+        "value": 0.472,
+        "p_value": 0.0644,
+        "n_samples": 68
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.084,
+        "p_value": 0.12031,
+        "n_samples": 983
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.225,
+        "p_value": 0.06098,
+        "n_samples": 134
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.219,
+        "p_value": 0.1294,
+        "n_samples": 143
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.214,
+        "p_value": 0.03144,
+        "n_samples": 792
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": 0.083,
+        "p_value": 0.22775,
+        "n_samples": 927
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0134",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 134",
+    "publication_year": 2012,
+    "sample_size": 2389,
+    "findings": [
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.271,
+        "p_value": 0.02299,
+        "n_samples": 664
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.158,
+        "p_value": 0.09696,
+        "n_samples": 197
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.22,
+        "p_value": 0.09646,
+        "n_samples": 623
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.224,
+        "p_value": 0.13728,
+        "n_samples": 856
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-1005-MALFORMED",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 1005",
+    "publication_year": 2025,
+    "sample_size": 2333,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.023,
+        "p_value": 0.00995,
+        "n_samples": 43
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": 0.015,
+        "p_value": 0.00146,
+        "n_samples": 73
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.28,
+        "p_value": 0.01427,
+        "n_samples": 155
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 1.054,
+        "p_value": 0.05764,
+        "n_samples": 123
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.239,
+        "p_value": 0.10257,
+        "n_samples": 183
+      },
+      {
+        "entity": "EGFR",
+        "metric": "UNSUPPORTED_METRIC_TYPE",
+        "value": 0.023,
+        "p_value": 0.00995,
+        "n_samples": 43
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "infectious_disease",
+    "_force_bad_metric": true
+  },
+  {
+    "study_id": "STUDY-0073",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 73",
+    "publication_year": 2021,
+    "sample_size": 2712,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.416,
+        "p_value": 0.07046,
+        "n_samples": 4779
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.332,
+        "p_value": 0.05197,
+        "n_samples": 1677
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.3,
+        "p_value": 0.08142,
+        "n_samples": 4311
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.413,
+        "p_value": 0.16021,
+        "n_samples": 3543
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0087",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 87",
+    "publication_year": 2022,
+    "sample_size": 2599,
+    "findings": [
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 0.83,
+        "p_value": 0.04307,
+        "n_samples": 90
+      },
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.54,
+        "p_value": 0.08036,
+        "n_samples": 96
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.092,
+        "p_value": 0.09186,
+        "n_samples": 92
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.202,
+        "p_value": 0.20558,
+        "n_samples": 166
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": 0.627,
+        "p_value": 0.04653,
+        "n_samples": 53
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.417,
+        "p_value": 0.04522,
+        "n_samples": 198
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0100",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 100",
+    "publication_year": 2022,
+    "sample_size": 654,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.962,
+        "p_value": 0.07682,
+        "n_samples": 4437
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.354,
+        "p_value": 0.00361,
+        "n_samples": 2834
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0147",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 147",
+    "publication_year": 2021,
+    "sample_size": 710,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.493,
+        "p_value": 0.12061,
+        "n_samples": 22
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.741,
+        "p_value": 0.0093,
+        "n_samples": 143
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0082",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 82",
+    "publication_year": 2022,
+    "sample_size": 4750,
+    "findings": [
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.379,
+        "p_value": 0.1687,
+        "n_samples": 421
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.429,
+        "p_value": 0.00769,
+        "n_samples": 1480
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.332,
+        "p_value": 0.0721,
+        "n_samples": 4893
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0031",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 31",
+    "publication_year": 2014,
+    "sample_size": 4199,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.71,
+        "p_value": 0.02048,
+        "n_samples": 2827
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": 0.258,
+        "p_value": 0.00476,
+        "n_samples": 3118
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.202,
+        "p_value": 0.03246,
+        "n_samples": 909
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.138,
+        "p_value": 0.16004,
+        "n_samples": 3458
+      },
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.458,
+        "p_value": 0.11678,
+        "n_samples": 4980
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0009",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 9",
+    "publication_year": 2023,
+    "sample_size": 1066,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.608,
+        "p_value": 0.00547,
+        "n_samples": 174
+      },
+      {
+        "entity": "ALK",
+        "metric": "log2_fold_change",
+        "value": -0.362,
+        "p_value": 0.03507,
+        "n_samples": 104
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -1.074,
+        "p_value": 0.02712,
+        "n_samples": 161
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": 1.858,
+        "p_value": 0.01598,
+        "n_samples": 93
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.853,
+        "p_value": 0.17615,
+        "n_samples": 121
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0053",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 53",
+    "publication_year": 2020,
+    "sample_size": 196,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.125,
+        "p_value": 0.02091,
+        "n_samples": 742
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.362,
+        "p_value": 0.03847,
+        "n_samples": 18
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.212,
+        "p_value": 0.04536,
+        "n_samples": 360
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0074",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 74",
+    "publication_year": 2020,
+    "sample_size": 984,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.051,
+        "p_value": 0.01048,
+        "n_samples": 40
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.465,
+        "p_value": 0.09667,
+        "n_samples": 911
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": 0.264,
+        "p_value": 0.0241,
+        "n_samples": 773
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.36,
+        "p_value": 0.18097,
+        "n_samples": 925
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0067",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 67",
+    "publication_year": 2021,
+    "sample_size": 748,
+    "findings": [
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.486,
+        "p_value": 0.0303,
+        "n_samples": 1580
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.518,
+        "p_value": 0.02578,
+        "n_samples": 4885
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0000",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 0",
+    "publication_year": 2013,
+    "sample_size": 919,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.515,
+        "p_value": 0.00808,
+        "n_samples": 29
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.013,
+        "p_value": 0.0756,
+        "n_samples": 25
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.494,
+        "p_value": 0.01478,
+        "n_samples": 65
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.613,
+        "p_value": 0.03051,
+        "n_samples": 81
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0027",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 27",
+    "publication_year": 2014,
+    "sample_size": 4226,
+    "findings": [
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.275,
+        "p_value": 0.04178,
+        "n_samples": 150
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.253,
+        "p_value": 0.05385,
+        "n_samples": 43
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.001,
+        "p_value": 0.02222,
+        "n_samples": 62
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -1.027,
+        "p_value": 0.07166,
+        "n_samples": 65
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": 0.932,
+        "p_value": 0.00219,
+        "n_samples": 58
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.118,
+        "p_value": 0.03648,
+        "n_samples": 98
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0034",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 34",
+    "publication_year": 2018,
+    "sample_size": 4537,
+    "findings": [
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.691,
+        "p_value": 0.1021,
+        "n_samples": 3972
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.549,
+        "p_value": 0.04408,
+        "n_samples": 2532
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.578,
+        "p_value": 0.05746,
+        "n_samples": 3281
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.294,
+        "p_value": 0.07178,
+        "n_samples": 1902
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0065",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 65",
+    "publication_year": 2013,
+    "sample_size": 1872,
+    "findings": [
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.342,
+        "p_value": 0.0918,
+        "n_samples": 879
+      },
+      {
+        "entity": "Trastuzumab",
+        "metric": "effect_size",
+        "value": -0.056,
+        "p_value": 0.10016,
+        "n_samples": 401
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.087,
+        "p_value": 0.00371,
+        "n_samples": 546
+      },
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.099,
+        "p_value": 0.0108,
+        "n_samples": 524
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.456,
+        "p_value": 0.07977,
+        "n_samples": 166
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0145",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 145",
+    "publication_year": 2024,
+    "sample_size": 2497,
+    "findings": [
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.378,
+        "p_value": 0.03755,
+        "n_samples": 2579
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.191,
+        "p_value": 0.08385,
+        "n_samples": 4013
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.411,
+        "p_value": 0.04496,
+        "n_samples": 4556
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.573,
+        "p_value": 0.07709,
+        "n_samples": 4707
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0098",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 98",
+    "publication_year": 2017,
+    "sample_size": 3432,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.515,
+        "p_value": 0.01117,
+        "n_samples": 903
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.138,
+        "p_value": 0.00496,
+        "n_samples": 26
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.631,
+        "p_value": 0.01037,
+        "n_samples": 916
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.04,
+        "p_value": 0.30848,
+        "n_samples": 96
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0137",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 137",
+    "publication_year": 2014,
+    "sample_size": 658,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.633,
+        "p_value": 0.0079,
+        "n_samples": 29
+      },
+      {
+        "entity": "Empagliflozin",
+        "metric": "effect_size",
+        "value": -0.238,
+        "p_value": 0.09935,
+        "n_samples": 785
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.41,
+        "p_value": 0.00222,
+        "n_samples": 685
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0026",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 26",
+    "publication_year": 2019,
+    "sample_size": 1232,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": 0.118,
+        "p_value": 0.0986,
+        "n_samples": 760
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.099,
+        "p_value": 0.12974,
+        "n_samples": 147
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0133",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 133",
+    "publication_year": 2013,
+    "sample_size": 4921,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.259,
+        "p_value": 0.05558,
+        "n_samples": 2132
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.37,
+        "p_value": 0.06592,
+        "n_samples": 3919
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": 0.016,
+        "p_value": 0.03114,
+        "n_samples": 4732
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.216,
+        "p_value": 0.00118,
+        "n_samples": 2146
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.455,
+        "p_value": 0.02568,
+        "n_samples": 1129
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0044",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 44",
+    "publication_year": 2025,
+    "sample_size": 4250,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.381,
+        "p_value": 0.0509,
+        "n_samples": 333
+      },
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": 0.316,
+        "p_value": 0.05506,
+        "n_samples": 591
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.307,
+        "p_value": 0.00326,
+        "n_samples": 111
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0015",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 15",
+    "publication_year": 2014,
+    "sample_size": 4279,
+    "findings": [
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.742,
+        "p_value": 0.00353,
+        "n_samples": 135
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.185,
+        "p_value": 0.02583,
+        "n_samples": 95
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.692,
+        "p_value": 0.0125,
+        "n_samples": 60
+      },
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": -0.119,
+        "p_value": 0.01738,
+        "n_samples": 198
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.8,
+        "p_value": 0.04815,
+        "n_samples": 127
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": 1.518,
+        "p_value": 0.19852,
+        "n_samples": 8
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.364,
+        "p_value": 0.00609,
+        "n_samples": 94
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0018",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 18",
+    "publication_year": 2016,
+    "sample_size": 4586,
+    "findings": [
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.72,
+        "p_value": 0.00365,
+        "n_samples": 64
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.6,
+        "p_value": 0.02999,
+        "n_samples": 109
+      },
+      {
+        "entity": "APOE",
+        "metric": "log2_fold_change",
+        "value": 0.214,
+        "p_value": 0.02837,
+        "n_samples": 10
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.549,
+        "p_value": 0.0003,
+        "n_samples": 190
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.253,
+        "p_value": 0.04816,
+        "n_samples": 199
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0093",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 93",
+    "publication_year": 2014,
+    "sample_size": 2721,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.781,
+        "p_value": 0.07774,
+        "n_samples": 89
+      },
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 0.798,
+        "p_value": 0.03225,
+        "n_samples": 95
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.123,
+        "p_value": 0.03257,
+        "n_samples": 49
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.428,
+        "p_value": 0.04275,
+        "n_samples": 136
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0089",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 89",
+    "publication_year": 2015,
+    "sample_size": 314,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": -0.199,
+        "p_value": 0.04926,
+        "n_samples": 14
+      },
+      {
+        "entity": "Trastuzumab",
+        "metric": "effect_size",
+        "value": 0.1,
+        "p_value": 0.02483,
+        "n_samples": 55
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.215,
+        "p_value": 0.00607,
+        "n_samples": 488
+      },
+      {
+        "entity": "Ruxolitinib",
+        "metric": "effect_size",
+        "value": -0.492,
+        "p_value": 0.14666,
+        "n_samples": 115
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": -0.076,
+        "p_value": 0.02498,
+        "n_samples": 601
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.287,
+        "p_value": 0.09472,
+        "n_samples": 664
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0058",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 58",
+    "publication_year": 2014,
+    "sample_size": 168,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.31,
+        "p_value": 0.06446,
+        "n_samples": 3002
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.32,
+        "p_value": 0.0851,
+        "n_samples": 4435
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.622,
+        "p_value": 0.11397,
+        "n_samples": 1575
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0111",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 111",
+    "publication_year": 2019,
+    "sample_size": 3199,
+    "findings": [
+      {
+        "entity": "IL6",
+        "metric": "log2_fold_change",
+        "value": 1.55,
+        "p_value": 0.01839,
+        "n_samples": 142
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.369,
+        "p_value": 0.16755,
+        "n_samples": 121
+      },
+      {
+        "entity": "APOE",
+        "metric": "log2_fold_change",
+        "value": 0.647,
+        "p_value": 0.02072,
+        "n_samples": 92
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": -0.043,
+        "p_value": 0.07751,
+        "n_samples": 16
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.437,
+        "p_value": 0.05304,
+        "n_samples": 139
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.292,
+        "p_value": 0.03066,
+        "n_samples": 179
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 1.05,
+        "p_value": 0.06756,
+        "n_samples": 65
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.882,
+        "p_value": 0.12939,
+        "n_samples": 15
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0108",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 108",
+    "publication_year": 2022,
+    "sample_size": 2664,
+    "findings": [
+      {
+        "entity": "VEGFA",
+        "metric": "log2_fold_change",
+        "value": -0.856,
+        "p_value": 0.01488,
+        "n_samples": 24
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.023,
+        "p_value": 0.0246,
+        "n_samples": 21
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.992,
+        "p_value": 0.01494,
+        "n_samples": 73
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.64,
+        "p_value": 0.19418,
+        "n_samples": 57
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.135,
+        "p_value": 0.04712,
+        "n_samples": 51
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.225,
+        "p_value": 0.0389,
+        "n_samples": 116
+      },
+      {
+        "entity": "IDH1",
+        "metric": "log2_fold_change",
+        "value": -0.568,
+        "p_value": 0.01232,
+        "n_samples": 170
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0149",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 149",
+    "publication_year": 2020,
+    "sample_size": 1768,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.512,
+        "p_value": 0.372,
+        "n_samples": 421
+      },
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.369,
+        "p_value": 0.10885,
+        "n_samples": 649
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.066,
+        "p_value": 0.12394,
+        "n_samples": 107
+      },
+      {
+        "entity": "Empagliflozin",
+        "metric": "effect_size",
+        "value": -0.602,
+        "p_value": 0.05974,
+        "n_samples": 289
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.852,
+        "p_value": 0.04299,
+        "n_samples": 224
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0104",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 104",
+    "publication_year": 2025,
+    "sample_size": 1277,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.396,
+        "p_value": 0.12119,
+        "n_samples": 780
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.874,
+        "p_value": 0.01812,
+        "n_samples": 460
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.251,
+        "p_value": 0.08631,
+        "n_samples": 181
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0005",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 5",
+    "publication_year": 2012,
+    "sample_size": 1300,
+    "findings": [
+      {
+        "entity": "Pembrolizumab",
+        "metric": "effect_size",
+        "value": -0.257,
+        "p_value": 0.04566,
+        "n_samples": 179
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.502,
+        "p_value": 0.00519,
+        "n_samples": 513
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.175,
+        "p_value": 0.02173,
+        "n_samples": 529
+      },
+      {
+        "entity": "Lisinopril",
+        "metric": "effect_size",
+        "value": -0.177,
+        "p_value": 0.0168,
+        "n_samples": 668
+      },
+      {
+        "entity": "Dexamethasone",
+        "metric": "effect_size",
+        "value": -0.46,
+        "p_value": 0.00547,
+        "n_samples": 464
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.202,
+        "p_value": 0.10772,
+        "n_samples": 468
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0063",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 63",
+    "publication_year": 2012,
+    "sample_size": 2275,
+    "findings": [
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.314,
+        "p_value": 0.12573,
+        "n_samples": 136
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": -0.884,
+        "p_value": 0.0084,
+        "n_samples": 15
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.066,
+        "p_value": 0.03084,
+        "n_samples": 45
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0014",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 14",
+    "publication_year": 2018,
+    "sample_size": 2301,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.557,
+        "p_value": 0.05422,
+        "n_samples": 143
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.248,
+        "p_value": 0.00038,
+        "n_samples": 487
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": 0.002,
+        "p_value": 0.08245,
+        "n_samples": 168
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 1.028,
+        "p_value": 0.06057,
+        "n_samples": 802
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0116",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 116",
+    "publication_year": 2022,
+    "sample_size": 368,
+    "findings": [
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.221,
+        "p_value": 0.01568,
+        "n_samples": 267
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.035,
+        "p_value": 0.02713,
+        "n_samples": 834
+      },
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.206,
+        "p_value": 0.00735,
+        "n_samples": 63
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.57,
+        "p_value": 0.17256,
+        "n_samples": 190
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.14,
+        "p_value": 0.04823,
+        "n_samples": 82
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0059",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 59",
+    "publication_year": 2025,
+    "sample_size": 1078,
+    "findings": [
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.027,
+        "p_value": 0.00755,
+        "n_samples": 206
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.422,
+        "p_value": 0.00693,
+        "n_samples": 594
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.173,
+        "p_value": 0.04488,
+        "n_samples": 648
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.461,
+        "p_value": 0.08056,
+        "n_samples": 272
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0090",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 90",
+    "publication_year": 2016,
+    "sample_size": 1238,
+    "findings": [
+      {
+        "entity": "VEGFA",
+        "metric": "log2_fold_change",
+        "value": -0.238,
+        "p_value": 0.15886,
+        "n_samples": 149
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.307,
+        "p_value": 0.03608,
+        "n_samples": 58
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": -0.191,
+        "p_value": 0.01581,
+        "n_samples": 186
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.54,
+        "p_value": 0.08148,
+        "n_samples": 152
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.407,
+        "p_value": 0.0475,
+        "n_samples": 92
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0020",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 20",
+    "publication_year": 2020,
+    "sample_size": 2431,
+    "findings": [
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.298,
+        "p_value": 0.0754,
+        "n_samples": 946
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.101,
+        "p_value": 0.22419,
+        "n_samples": 897
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.322,
+        "p_value": 0.19901,
+        "n_samples": 576
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.517,
+        "p_value": 0.13851,
+        "n_samples": 154
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0152",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 152",
+    "publication_year": 2015,
+    "sample_size": 241,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.613,
+        "p_value": 0.01879,
+        "n_samples": 857
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.618,
+        "p_value": 0.31624,
+        "n_samples": 442
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.681,
+        "p_value": 0.0694,
+        "n_samples": 47
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.159,
+        "p_value": 0.00197,
+        "n_samples": 818
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0060",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 60",
+    "publication_year": 2025,
+    "sample_size": 670,
+    "findings": [
+      {
+        "entity": "APOE",
+        "metric": "log2_fold_change",
+        "value": -0.299,
+        "p_value": 0.02239,
+        "n_samples": 196
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.951,
+        "p_value": 0.13923,
+        "n_samples": 112
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.527,
+        "p_value": 0.003,
+        "n_samples": 163
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": -0.42,
+        "p_value": 0.01545,
+        "n_samples": 16
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": 0.868,
+        "p_value": 0.00406,
+        "n_samples": 61
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0004",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 4",
+    "publication_year": 2019,
+    "sample_size": 940,
+    "findings": [
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.684,
+        "p_value": 0.14571,
+        "n_samples": 3630
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.253,
+        "p_value": 0.02515,
+        "n_samples": 4319
+      },
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.235,
+        "p_value": 0.09727,
+        "n_samples": 4743
+      },
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.519,
+        "p_value": 0.20788,
+        "n_samples": 2791
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.114,
+        "p_value": 0.04881,
+        "n_samples": 800
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0023",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 23",
+    "publication_year": 2017,
+    "sample_size": 1065,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.284,
+        "p_value": 0.02238,
+        "n_samples": 81
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.683,
+        "p_value": 0.15358,
+        "n_samples": 335
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.627,
+        "p_value": 0.07181,
+        "n_samples": 720
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0139",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 139",
+    "publication_year": 2023,
+    "sample_size": 823,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.339,
+        "p_value": 0.17201,
+        "n_samples": 4150
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.271,
+        "p_value": 0.07985,
+        "n_samples": 1536
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.182,
+        "p_value": 0.03861,
+        "n_samples": 899
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0103",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 103",
+    "publication_year": 2019,
+    "sample_size": 3044,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.412,
+        "p_value": 0.10996,
+        "n_samples": 2160
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.403,
+        "p_value": 0.0133,
+        "n_samples": 4340
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0109",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 109",
+    "publication_year": 2012,
+    "sample_size": 324,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.351,
+        "p_value": 0.08028,
+        "n_samples": 3225
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.191,
+        "p_value": 0.05699,
+        "n_samples": 4242
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.553,
+        "p_value": 0.04336,
+        "n_samples": 3328
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": -0.124,
+        "p_value": 0.12388,
+        "n_samples": 594
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.39,
+        "p_value": 0.2055,
+        "n_samples": 3969
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0024",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 24",
+    "publication_year": 2012,
+    "sample_size": 2580,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.027,
+        "p_value": 0.01413,
+        "n_samples": 62
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.198,
+        "p_value": 0.0162,
+        "n_samples": 98
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -1.175,
+        "p_value": 0.00721,
+        "n_samples": 193
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0006",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 6",
+    "publication_year": 2020,
+    "sample_size": 4513,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.242,
+        "p_value": 0.04634,
+        "n_samples": 164
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.34,
+        "p_value": 0.05074,
+        "n_samples": 136
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": -0.729,
+        "p_value": 0.03046,
+        "n_samples": 93
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.274,
+        "p_value": 0.02258,
+        "n_samples": 19
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0056",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 56",
+    "publication_year": 2023,
+    "sample_size": 3908,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.246,
+        "p_value": 0.09821,
+        "n_samples": 264
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.521,
+        "p_value": 0.01144,
+        "n_samples": 103
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.597,
+        "p_value": 0.233,
+        "n_samples": 787
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.109,
+        "p_value": 0.06541,
+        "n_samples": 71
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0102",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 102",
+    "publication_year": 2021,
+    "sample_size": 2148,
+    "findings": [
+      {
+        "entity": "IL6",
+        "metric": "log2_fold_change",
+        "value": 1.489,
+        "p_value": 0.00926,
+        "n_samples": 19
+      },
+      {
+        "entity": "APOE",
+        "metric": "log2_fold_change",
+        "value": 0.796,
+        "p_value": 0.0534,
+        "n_samples": 80
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.084,
+        "p_value": 0.0169,
+        "n_samples": 27
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": -0.383,
+        "p_value": 0.00678,
+        "n_samples": 25
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": 1.268,
+        "p_value": 0.00711,
+        "n_samples": 77
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0140",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 140",
+    "publication_year": 2017,
+    "sample_size": 1027,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": -0.095,
+        "p_value": 0.04565,
+        "n_samples": 379
+      },
+      {
+        "entity": "Ruxolitinib",
+        "metric": "effect_size",
+        "value": -0.043,
+        "p_value": 0.08132,
+        "n_samples": 580
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.082,
+        "p_value": 0.04538,
+        "n_samples": 404
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.238,
+        "p_value": 0.02224,
+        "n_samples": 624
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0084",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 84",
+    "publication_year": 2014,
+    "sample_size": 4624,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": -0.858,
+        "p_value": 0.0343,
+        "n_samples": 192
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": -0.412,
+        "p_value": 0.00992,
+        "n_samples": 162
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": -0.115,
+        "p_value": 0.01325,
+        "n_samples": 80
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.573,
+        "p_value": 0.00121,
+        "n_samples": 166
+      },
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": 0.156,
+        "p_value": 0.07966,
+        "n_samples": 194
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.282,
+        "p_value": 0.34474,
+        "n_samples": 111
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0130",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 130",
+    "publication_year": 2020,
+    "sample_size": 3246,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.215,
+        "p_value": 0.06194,
+        "n_samples": 479
+      },
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.285,
+        "p_value": 0.15939,
+        "n_samples": 2977
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.757,
+        "p_value": 0.0372,
+        "n_samples": 3183
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.012,
+        "p_value": 0.0311,
+        "n_samples": 2351
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0019",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 19",
+    "publication_year": 2022,
+    "sample_size": 2483,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.409,
+        "p_value": 0.1742,
+        "n_samples": 3144
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.164,
+        "p_value": 0.03351,
+        "n_samples": 272
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0121",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 121",
+    "publication_year": 2023,
+    "sample_size": 2742,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.291,
+        "p_value": 0.05047,
+        "n_samples": 2449
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.113,
+        "p_value": 0.1947,
+        "n_samples": 4463
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.439,
+        "p_value": 0.05708,
+        "n_samples": 1716
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.416,
+        "p_value": 0.14182,
+        "n_samples": 469
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0062",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 62",
+    "publication_year": 2022,
+    "sample_size": 3542,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": 0.15,
+        "p_value": 0.11664,
+        "n_samples": 341
+      },
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.52,
+        "p_value": 0.01605,
+        "n_samples": 794
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.303,
+        "p_value": 0.05327,
+        "n_samples": 772
+      },
+      {
+        "entity": "Dexamethasone",
+        "metric": "effect_size",
+        "value": -0.08,
+        "p_value": 0.03955,
+        "n_samples": 416
+      },
+      {
+        "entity": "Empagliflozin",
+        "metric": "effect_size",
+        "value": 0.296,
+        "p_value": 1e-05,
+        "n_samples": 45
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.761,
+        "p_value": 0.0486,
+        "n_samples": 921
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0154",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 154",
+    "publication_year": 2021,
+    "sample_size": 1016,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.219,
+        "p_value": 0.11905,
+        "n_samples": 3214
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.145,
+        "p_value": 0.10927,
+        "n_samples": 1952
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.279,
+        "p_value": 0.00753,
+        "n_samples": 1773
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0117",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 117",
+    "publication_year": 2015,
+    "sample_size": 3394,
+    "findings": [
+      {
+        "entity": "IL6",
+        "metric": "log2_fold_change",
+        "value": 0.982,
+        "p_value": 0.10197,
+        "n_samples": 102
+      },
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 1.122,
+        "p_value": 0.04398,
+        "n_samples": 19
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": -0.068,
+        "p_value": 0.11059,
+        "n_samples": 43
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.154,
+        "p_value": 0.0098,
+        "n_samples": 101
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 1.344,
+        "p_value": 0.00733,
+        "n_samples": 190
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.146,
+        "p_value": 0.01571,
+        "n_samples": 91
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0021",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 21",
+    "publication_year": 2013,
+    "sample_size": 2511,
+    "findings": [
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.025,
+        "p_value": 0.06472,
+        "n_samples": 60
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.616,
+        "p_value": 0.02661,
+        "n_samples": 171
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0114",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 114",
+    "publication_year": 2012,
+    "sample_size": 74,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.551,
+        "p_value": 0.00989,
+        "n_samples": 28
+      },
+      {
+        "entity": "VEGFA",
+        "metric": "log2_fold_change",
+        "value": -0.616,
+        "p_value": 0.01669,
+        "n_samples": 183
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.004,
+        "p_value": 0.08236,
+        "n_samples": 127
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.484,
+        "p_value": 0.05106,
+        "n_samples": 139
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": 0.019,
+        "p_value": 0.02993,
+        "n_samples": 67
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.422,
+        "p_value": 0.00192,
+        "n_samples": 52
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0055",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 55",
+    "publication_year": 2012,
+    "sample_size": 4517,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.479,
+        "p_value": 0.06784,
+        "n_samples": 1647
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.275,
+        "p_value": 0.0298,
+        "n_samples": 446
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.405,
+        "p_value": 0.00799,
+        "n_samples": 3576
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.278,
+        "p_value": 0.02615,
+        "n_samples": 1391
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0040",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 40",
+    "publication_year": 2021,
+    "sample_size": 2219,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.08,
+        "p_value": 0.17753,
+        "n_samples": 1577
+      },
+      {
+        "entity": "recurrence_rate",
+        "metric": "effect_size",
+        "value": 0.808,
+        "p_value": 0.04608,
+        "n_samples": 1655
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.422,
+        "p_value": 0.02056,
+        "n_samples": 1897
+      },
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.305,
+        "p_value": 0.01511,
+        "n_samples": 2065
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.411,
+        "p_value": 0.10062,
+        "n_samples": 1002
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0136",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 136",
+    "publication_year": 2025,
+    "sample_size": 3635,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.383,
+        "p_value": 0.14699,
+        "n_samples": 4915
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": -0.365,
+        "p_value": 0.0126,
+        "n_samples": 2515
+      },
+      {
+        "entity": "recurrence_rate",
+        "metric": "effect_size",
+        "value": 0.334,
+        "p_value": 0.00195,
+        "n_samples": 991
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0124",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 124",
+    "publication_year": 2013,
+    "sample_size": 910,
+    "findings": [
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.613,
+        "p_value": 0.012,
+        "n_samples": 937
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.194,
+        "p_value": 0.13863,
+        "n_samples": 4285
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.717,
+        "p_value": 0.20258,
+        "n_samples": 205
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0118",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 118",
+    "publication_year": 2014,
+    "sample_size": 1407,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.029,
+        "p_value": 0.05754,
+        "n_samples": 4548
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.355,
+        "p_value": 0.12965,
+        "n_samples": 4027
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.524,
+        "p_value": 0.13213,
+        "n_samples": 1793
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.011,
+        "p_value": 0.02182,
+        "n_samples": 3527
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-1001-MALFORMED",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 1001",
+    "publication_year": 2019,
+    "sample_size": "a lot of patients",
+    "findings": [
+      {
+        "entity": "Lisinopril",
+        "metric": "effect_size",
+        "value": -0.652,
+        "p_value": 0.14106,
+        "n_samples": 795
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.506,
+        "p_value": 0.02135,
+        "n_samples": 92
+      },
+      {
+        "entity": "Dexamethasone",
+        "metric": "effect_size",
+        "value": -0.477,
+        "p_value": 0.11551,
+        "n_samples": 973
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.72,
+        "p_value": 0.17403,
+        "n_samples": 350
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0106",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 106",
+    "publication_year": 2021,
+    "sample_size": 3219,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.614,
+        "p_value": 0.01845,
+        "n_samples": 4842
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.381,
+        "p_value": 0.09812,
+        "n_samples": 4279
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.16,
+        "p_value": 0.01322,
+        "n_samples": 4506
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0078",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 78",
+    "publication_year": 2014,
+    "sample_size": 3812,
+    "findings": [
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.442,
+        "p_value": 0.08857,
+        "n_samples": 121
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 1.376,
+        "p_value": 0.00991,
+        "n_samples": 155
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": 0.041,
+        "p_value": 0.1389,
+        "n_samples": 184
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.914,
+        "p_value": 0.01954,
+        "n_samples": 12
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0142",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 142",
+    "publication_year": 2018,
+    "sample_size": 1020,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.219,
+        "p_value": 0.01767,
+        "n_samples": 3499
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.259,
+        "p_value": 0.08333,
+        "n_samples": 4787
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.64,
+        "p_value": 0.06004,
+        "n_samples": 3298
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.479,
+        "p_value": 0.1999,
+        "n_samples": 3989
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0112",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 112",
+    "publication_year": 2025,
+    "sample_size": 812,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.397,
+        "p_value": 0.05961,
+        "n_samples": 891
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": 0.002,
+        "p_value": 0.00808,
+        "n_samples": 4894
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.344,
+        "p_value": 0.1088,
+        "n_samples": 3511
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.608,
+        "p_value": 0.02743,
+        "n_samples": 3313
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0115",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 115",
+    "publication_year": 2012,
+    "sample_size": 4583,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.38,
+        "p_value": 0.01791,
+        "n_samples": 982
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.973,
+        "p_value": 0.06432,
+        "n_samples": 4441
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.302,
+        "p_value": 0.04722,
+        "n_samples": 3822
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0072",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 72",
+    "publication_year": 2025,
+    "sample_size": 256,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 1.435,
+        "p_value": 0.01278,
+        "n_samples": 93
+      },
+      {
+        "entity": "STAT3",
+        "metric": "log2_fold_change",
+        "value": 0.217,
+        "p_value": 0.11374,
+        "n_samples": 174
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0138",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 138",
+    "publication_year": 2021,
+    "sample_size": 1697,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.246,
+        "p_value": 0.04429,
+        "n_samples": 57
+      },
+      {
+        "entity": "TNF",
+        "metric": "log2_fold_change",
+        "value": 0.022,
+        "p_value": 0.00476,
+        "n_samples": 197
+      },
+      {
+        "entity": "VEGFA",
+        "metric": "log2_fold_change",
+        "value": 0.112,
+        "p_value": 0.14223,
+        "n_samples": 154
+      },
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.575,
+        "p_value": 0.03472,
+        "n_samples": 192
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.35,
+        "p_value": 0.04746,
+        "n_samples": 135
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.292,
+        "p_value": 0.04315,
+        "n_samples": 9
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0092",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 92",
+    "publication_year": 2024,
+    "sample_size": 3829,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": 0.139,
+        "p_value": 0.10808,
+        "n_samples": 725
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.115,
+        "p_value": 0.04211,
+        "n_samples": 476
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.65,
+        "p_value": 0.09697,
+        "n_samples": 491
+      }
+    ],
+    "organism": "human",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0071",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 71",
+    "publication_year": 2012,
+    "sample_size": 340,
+    "findings": [
+      {
+        "entity": "Trastuzumab",
+        "metric": "effect_size",
+        "value": -0.014,
+        "p_value": 0.02705,
+        "n_samples": 412
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.308,
+        "p_value": 0.09094,
+        "n_samples": 28
+      },
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.38,
+        "p_value": 0.06543,
+        "n_samples": 251
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.049,
+        "p_value": 0.368,
+        "n_samples": 523
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0127",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 127",
+    "publication_year": 2017,
+    "sample_size": 1526,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": -0.325,
+        "p_value": 0.01531,
+        "n_samples": 304
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": -0.06,
+        "p_value": 0.01067,
+        "n_samples": 3693
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -1.036,
+        "p_value": 0.05175,
+        "n_samples": 1351
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.374,
+        "p_value": 0.00168,
+        "n_samples": 4111
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0032",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 32",
+    "publication_year": 2020,
+    "sample_size": 977,
+    "findings": [
+      {
+        "entity": "Sofosbuxin",
+        "metric": "effect_size",
+        "value": -0.093,
+        "p_value": 0.15484,
+        "n_samples": 562
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.183,
+        "p_value": 0.11717,
+        "n_samples": 928
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.072,
+        "p_value": 0.03765,
+        "n_samples": 440
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.402,
+        "p_value": 0.03084,
+        "n_samples": 54
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-1006-MALFORMED",
+    "study_type": "astrology_reading",
+    "title": "Clinical Outcome study 1006",
+    "publication_year": 2013,
+    "sample_size": 4577,
+    "findings": [
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.434,
+        "p_value": 0.00404,
+        "n_samples": 2746
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.606,
+        "p_value": 0.02916,
+        "n_samples": 4987
+      },
+      {
+        "entity": "symptom_score_change",
+        "metric": "effect_size",
+        "value": 0.292,
+        "p_value": 0.18681,
+        "n_samples": 4920
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0080",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 80",
+    "publication_year": 2024,
+    "sample_size": 3670,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.226,
+        "p_value": 0.15254,
+        "n_samples": 993
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.306,
+        "p_value": 0.01511,
+        "n_samples": 647
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.365,
+        "p_value": 0.04589,
+        "n_samples": 520
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0029",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 29",
+    "publication_year": 2016,
+    "sample_size": 1747,
+    "findings": [
+      {
+        "entity": "Trastuzumab",
+        "metric": "effect_size",
+        "value": 0.083,
+        "p_value": 0.06142,
+        "n_samples": 846
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.082,
+        "p_value": 0.0084,
+        "n_samples": 245
+      },
+      {
+        "entity": "Dexamethasone",
+        "metric": "effect_size",
+        "value": -0.291,
+        "p_value": 0.00802,
+        "n_samples": 701
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.043,
+        "p_value": 0.04344,
+        "n_samples": 225
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.595,
+        "p_value": 0.03528,
+        "n_samples": 259
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0150",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 150",
+    "publication_year": 2018,
+    "sample_size": 4438,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.502,
+        "p_value": 0.0188,
+        "n_samples": 112
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": -0.287,
+        "p_value": 0.03019,
+        "n_samples": 146
+      },
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.016,
+        "p_value": 0.00996,
+        "n_samples": 10
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0036",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 36",
+    "publication_year": 2024,
+    "sample_size": 4259,
+    "findings": [
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 1.564,
+        "p_value": 0.01684,
+        "n_samples": 14
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.132,
+        "p_value": 0.05994,
+        "n_samples": 163
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": -0.161,
+        "p_value": 0.00929,
+        "n_samples": 15
+      }
+    ],
+    "organism": "zebrafish",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0110",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 110",
+    "publication_year": 2017,
+    "sample_size": 4394,
+    "findings": [
+      {
+        "entity": "Ibuprofen",
+        "metric": "effect_size",
+        "value": 0.254,
+        "p_value": 0.12798,
+        "n_samples": 358
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.199,
+        "p_value": 0.09697,
+        "n_samples": 673
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.101,
+        "p_value": 0.01514,
+        "n_samples": 577
+      },
+      {
+        "entity": "Imatinib",
+        "metric": "effect_size",
+        "value": 0.646,
+        "p_value": 0.01413,
+        "n_samples": 722
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.158,
+        "p_value": 0.03296,
+        "n_samples": 119
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0135",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 135",
+    "publication_year": 2016,
+    "sample_size": 3070,
+    "findings": [
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": -0.352,
+        "p_value": 0.07544,
+        "n_samples": 111
+      },
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": -0.629,
+        "p_value": 0.0054,
+        "n_samples": 45
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 1.092,
+        "p_value": 0.035,
+        "n_samples": 54
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.275,
+        "p_value": 0.0585,
+        "n_samples": 140
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -1.077,
+        "p_value": 0.09356,
+        "n_samples": 188
+      },
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": -0.797,
+        "p_value": 0.00605,
+        "n_samples": 123
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0081",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 81",
+    "publication_year": 2022,
+    "sample_size": 3912,
+    "findings": [
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.434,
+        "p_value": 0.03023,
+        "n_samples": 119
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 1.253,
+        "p_value": 0.01403,
+        "n_samples": 146
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": 0.049,
+        "p_value": 0.01629,
+        "n_samples": 166
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0022",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 22",
+    "publication_year": 2024,
+    "sample_size": 4662,
+    "findings": [
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.198,
+        "p_value": 0.17958,
+        "n_samples": 4516
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.831,
+        "p_value": 0.04124,
+        "n_samples": 4522
+      }
+    ],
+    "organism": "human",
+    "disease_area": "oncology"
+  },
+  {
+    "study_id": "STUDY-0153",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 153",
+    "publication_year": 2012,
+    "sample_size": 468,
+    "findings": [
+      {
+        "entity": "EGFR",
+        "metric": "log2_fold_change",
+        "value": 0.537,
+        "p_value": 0.09816,
+        "n_samples": 27
+      },
+      {
+        "entity": "JAK2",
+        "metric": "log2_fold_change",
+        "value": -1.137,
+        "p_value": 0.00328,
+        "n_samples": 110
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.525,
+        "p_value": 0.11354,
+        "n_samples": 177
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.483,
+        "p_value": 0.14338,
+        "n_samples": 191
+      },
+      {
+        "entity": "BRAF",
+        "metric": "log2_fold_change",
+        "value": 0.182,
+        "p_value": 0.0925,
+        "n_samples": 66
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0119",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 119",
+    "publication_year": 2014,
+    "sample_size": 4714,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": -0.491,
+        "p_value": 0.15235,
+        "n_samples": 437
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.025,
+        "p_value": 0.04241,
+        "n_samples": 797
+      },
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.231,
+        "p_value": 0.04677,
+        "n_samples": 445
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0086",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 86",
+    "publication_year": 2022,
+    "sample_size": 3939,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.283,
+        "p_value": 0.06917,
+        "n_samples": 503
+      },
+      {
+        "entity": "Empagliflozin",
+        "metric": "effect_size",
+        "value": -0.739,
+        "p_value": 0.01126,
+        "n_samples": 481
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0126",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 126",
+    "publication_year": 2017,
+    "sample_size": 2375,
+    "findings": [
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": -0.149,
+        "p_value": 0.07343,
+        "n_samples": 18
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.693,
+        "p_value": 0.15642,
+        "n_samples": 164
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": 0.934,
+        "p_value": 0.12894,
+        "n_samples": 188
+      },
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": -0.211,
+        "p_value": 0.00964,
+        "n_samples": 187
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0128",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 128",
+    "publication_year": 2020,
+    "sample_size": 4171,
+    "findings": [
+      {
+        "entity": "Doxorubicin",
+        "metric": "effect_size",
+        "value": -0.252,
+        "p_value": 0.02683,
+        "n_samples": 732
+      },
+      {
+        "entity": "Losartan",
+        "metric": "effect_size",
+        "value": -0.54,
+        "p_value": 0.2329,
+        "n_samples": 782
+      },
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.432,
+        "p_value": 0.26314,
+        "n_samples": 597
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0043",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 43",
+    "publication_year": 2025,
+    "sample_size": 3296,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.07,
+        "p_value": 0.02187,
+        "n_samples": 1493
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": -0.337,
+        "p_value": 0.07723,
+        "n_samples": 838
+      },
+      {
+        "entity": "relapse_rate",
+        "metric": "effect_size",
+        "value": 0.048,
+        "p_value": 0.08506,
+        "n_samples": 1951
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.903,
+        "p_value": 0.01455,
+        "n_samples": 1245
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0066",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 66",
+    "publication_year": 2014,
+    "sample_size": 2768,
+    "findings": [
+      {
+        "entity": "APOE",
+        "metric": "log2_fold_change",
+        "value": 1.218,
+        "p_value": 0.00253,
+        "n_samples": 108
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.367,
+        "p_value": 0.01523,
+        "n_samples": 108
+      },
+      {
+        "entity": "BRCA1",
+        "metric": "log2_fold_change",
+        "value": -0.494,
+        "p_value": 0.00698,
+        "n_samples": 40
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -0.352,
+        "p_value": 0.03279,
+        "n_samples": 56
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": -0.47,
+        "p_value": 0.01091,
+        "n_samples": 163
+      },
+      {
+        "entity": "PTEN",
+        "metric": "log2_fold_change",
+        "value": -0.274,
+        "p_value": 0.29179,
+        "n_samples": 140
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "cardiology"
+  },
+  {
+    "study_id": "STUDY-0045",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 45",
+    "publication_year": 2019,
+    "sample_size": 2756,
+    "findings": [
+      {
+        "entity": "TP53",
+        "metric": "log2_fold_change",
+        "value": 0.745,
+        "p_value": 0.04076,
+        "n_samples": 71
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": 0.226,
+        "p_value": 0.02109,
+        "n_samples": 111
+      },
+      {
+        "entity": "PIK3CA",
+        "metric": "log2_fold_change",
+        "value": 0.933,
+        "p_value": 0.165,
+        "n_samples": 56
+      },
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": 0.332,
+        "p_value": 0.043,
+        "n_samples": 172
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0148",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 148",
+    "publication_year": 2012,
+    "sample_size": 2607,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.34,
+        "p_value": 0.03163,
+        "n_samples": 3217
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.24,
+        "p_value": 0.04468,
+        "n_samples": 1706
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.338,
+        "p_value": 0.02729,
+        "n_samples": 4138
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0010",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 10",
+    "publication_year": 2023,
+    "sample_size": 4549,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.363,
+        "p_value": 0.06524,
+        "n_samples": 2400
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.164,
+        "p_value": 0.07735,
+        "n_samples": 1106
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.65,
+        "p_value": 0.21186,
+        "n_samples": 4147
+      },
+      {
+        "entity": "adverse_event_rate",
+        "metric": "effect_size",
+        "value": -0.532,
+        "p_value": 0.05213,
+        "n_samples": 2660
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0143",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 143",
+    "publication_year": 2014,
+    "sample_size": 258,
+    "findings": [
+      {
+        "entity": "Atorvastatin",
+        "metric": "effect_size",
+        "value": 0.169,
+        "p_value": 0.00699,
+        "n_samples": 64
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.11,
+        "p_value": 0.00181,
+        "n_samples": 193
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.538,
+        "p_value": 0.03215,
+        "n_samples": 705
+      }
+    ],
+    "organism": "human",
+    "disease_area": "neurology"
+  },
+  {
+    "study_id": "STUDY-0033",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 33",
+    "publication_year": 2025,
+    "sample_size": 4734,
+    "findings": [
+      {
+        "entity": "RB1",
+        "metric": "log2_fold_change",
+        "value": -0.237,
+        "p_value": 0.03242,
+        "n_samples": 65
+      },
+      {
+        "entity": "HIF1A",
+        "metric": "log2_fold_change",
+        "value": 1.125,
+        "p_value": 0.12044,
+        "n_samples": 27
+      },
+      {
+        "entity": "AKT1",
+        "metric": "log2_fold_change",
+        "value": 0.245,
+        "p_value": 0.02627,
+        "n_samples": 54
+      },
+      {
+        "entity": "VEGFA",
+        "metric": "log2_fold_change",
+        "value": 0.801,
+        "p_value": 0.00027,
+        "n_samples": 196
+      },
+      {
+        "entity": "KRAS",
+        "metric": "log2_fold_change",
+        "value": 0.173,
+        "p_value": 0.00627,
+        "n_samples": 7
+      },
+      {
+        "entity": "MYC",
+        "metric": "log2_fold_change",
+        "value": -1.104,
+        "p_value": 0.0235,
+        "n_samples": 58
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.201,
+        "p_value": 0.02249,
+        "n_samples": 45
+      }
+    ],
+    "organism": "rat",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0094",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 94",
+    "publication_year": 2020,
+    "sample_size": 1317,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.023,
+        "p_value": 0.24303,
+        "n_samples": 3164
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.446,
+        "p_value": 0.07896,
+        "n_samples": 3551
+      },
+      {
+        "entity": "biomarker_normalization",
+        "metric": "effect_size",
+        "value": 0.429,
+        "p_value": 0.10226,
+        "n_samples": 3586
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-0101",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 101",
+    "publication_year": 2023,
+    "sample_size": 2730,
+    "findings": [
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.308,
+        "p_value": 0.03643,
+        "n_samples": 993
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0077",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 77",
+    "publication_year": 2015,
+    "sample_size": 4264,
+    "findings": [
+      {
+        "entity": "Trastuzumab",
+        "metric": "effect_size",
+        "value": -0.371,
+        "p_value": 0.05146,
+        "n_samples": 762
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": 0.228,
+        "p_value": 0.09659,
+        "n_samples": 995
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.417,
+        "p_value": 0.00337,
+        "n_samples": 308
+      },
+      {
+        "entity": "Metformin",
+        "metric": "effect_size",
+        "value": -0.809,
+        "p_value": 0.09905,
+        "n_samples": 302
+      }
+    ],
+    "organism": "human",
+    "disease_area": "immunology"
+  },
+  {
+    "study_id": "STUDY-0097",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 97",
+    "publication_year": 2012,
+    "sample_size": 21,
+    "findings": [
+      {
+        "entity": "mortality_30day",
+        "metric": "effect_size",
+        "value": 0.133,
+        "p_value": 0.08101,
+        "n_samples": 2962
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.447,
+        "p_value": 0.00211,
+        "n_samples": 3556
+      },
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.311,
+        "p_value": 0.08076,
+        "n_samples": 3249
+      },
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.528,
+        "p_value": 0.03473,
+        "n_samples": 3585
+      }
+    ],
+    "organism": "human",
+    "disease_area": "metabolic_disease"
+  },
+  {
+    "study_id": "STUDY-1002-MALFORMED",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 1002",
+    "publication_year": 2021,
+    "sample_size": 4501,
+    "findings": [],
+    "organism": "mouse",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0129",
+    "study_type": "gene_expression",
+    "title": "Gene Expression study 129",
+    "publication_year": 2013,
+    "sample_size": 3938,
+    "findings": [
+      {
+        "entity": "CDKN2A",
+        "metric": "log2_fold_change",
+        "value": 0.426,
+        "p_value": 0.04003,
+        "n_samples": 84
+      },
+      {
+        "entity": "MTOR",
+        "metric": "log2_fold_change",
+        "value": 0.787,
+        "p_value": 0.00126,
+        "n_samples": 164
+      },
+      {
+        "entity": "BRCA2",
+        "metric": "log2_fold_change",
+        "value": 0.752,
+        "p_value": 0.00485,
+        "n_samples": 20
+      },
+      {
+        "entity": "APOE",
+        "metric": "log2_fold_change",
+        "value": -0.009,
+        "p_value": 0.04684,
+        "n_samples": 55
+      }
+    ],
+    "organism": "mouse",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0064",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 64",
+    "publication_year": 2021,
+    "sample_size": 1796,
+    "findings": [
+      {
+        "entity": "hospitalization_rate",
+        "metric": "effect_size",
+        "value": -0.29,
+        "p_value": 0.10497,
+        "n_samples": 1436
+      },
+      {
+        "entity": "quality_of_life_score",
+        "metric": "effect_size",
+        "value": -0.439,
+        "p_value": 0.04466,
+        "n_samples": 4740
+      },
+      {
+        "entity": "progression_free_survival",
+        "metric": "effect_size",
+        "value": 0.337,
+        "p_value": 0.06853,
+        "n_samples": 326
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  },
+  {
+    "study_id": "STUDY-0001",
+    "study_type": "clinical_outcome",
+    "title": "Clinical Outcome study 1",
+    "publication_year": 2016,
+    "sample_size": 2965,
+    "findings": [
+      {
+        "entity": "overall_survival",
+        "metric": "effect_size",
+        "value": -0.371,
+        "p_value": 0.08943,
+        "n_samples": 798
+      }
+    ],
+    "organism": "human",
+    "disease_area": "nephrology"
+  },
+  {
+    "study_id": "STUDY-0011",
+    "study_type": "drug_screening",
+    "title": "Drug Screening study 11",
+    "publication_year": 2022,
+    "sample_size": 3434,
+    "findings": [
+      {
+        "entity": "Ruxolitinib",
+        "metric": "effect_size",
+        "value": -0.411,
+        "p_value": 0.05089,
+        "n_samples": 908
+      },
+      {
+        "entity": "Rapamycin",
+        "metric": "effect_size",
+        "value": -0.625,
+        "p_value": 0.12529,
+        "n_samples": 837
+      },
+      {
+        "entity": "Aspirin",
+        "metric": "effect_size",
+        "value": -0.348,
+        "p_value": 0.03196,
+        "n_samples": 64
+      }
+    ],
+    "organism": "human",
+    "disease_area": "infectious_disease"
+  }
+]

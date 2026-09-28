@@ -1,0 +1,821 @@
+{
+  "accepted": 156,
+  "rejected": 7,
+  "entries": [
+    {
+      "study_id": "STUDY-0146",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0016",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0070",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-1000-MALFORMED",
+      "status": "rejected",
+      "reason": "missing required field 'study_type'"
+    },
+    {
+      "study_id": "STUDY-0141",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0035",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0079",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0122",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0051",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-1004-MALFORMED",
+      "status": "rejected",
+      "reason": "publication_year invalid: -5"
+    },
+    {
+      "study_id": "STUDY-0039",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0076",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0050",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0132",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0057",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0054",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0046",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0095",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0123",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0105",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0012",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0155",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0041",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0075",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0052",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0047",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0091",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0151",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0048",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0085",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0120",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0003",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0013",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0008",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0049",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0028",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0002",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "<unknown>",
+      "status": "rejected",
+      "reason": "missing required field 'study_id'"
+    },
+    {
+      "study_id": "STUDY-0069",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0038",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0017",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0113",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0144",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0030",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0042",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0099",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0088",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0083",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0131",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0125",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0061",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0037",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0068",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0025",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0007",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0096",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0107",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0134",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-1005-MALFORMED",
+      "status": "rejected",
+      "reason": "finding has unsupported metric 'UNSUPPORTED_METRIC_TYPE'"
+    },
+    {
+      "study_id": "STUDY-0073",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0087",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0100",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0147",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0082",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0031",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0009",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0053",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0074",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0067",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0000",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0027",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0034",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0065",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0145",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0098",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0137",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0026",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0133",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0044",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0015",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0018",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0093",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0089",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0058",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0111",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0108",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0149",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0104",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0005",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0063",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0014",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0116",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0059",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0090",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0020",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0152",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0060",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0004",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0023",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0139",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0103",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0109",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0024",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0006",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0056",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0102",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0140",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0084",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0130",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0019",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0121",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0062",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0154",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0117",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0021",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0114",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0055",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0040",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0136",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0124",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0118",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-1001-MALFORMED",
+      "status": "rejected",
+      "reason": "sample_size must be a positive int, got 'a lot of patients'"
+    },
+    {
+      "study_id": "STUDY-0106",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0078",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0142",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0112",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0115",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0072",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0138",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0092",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0071",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0127",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0032",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-1006-MALFORMED",
+      "status": "rejected",
+      "reason": "invalid study_type 'astrology_reading'"
+    },
+    {
+      "study_id": "STUDY-0080",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0029",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0150",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0036",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0110",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0135",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0081",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0022",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0153",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0119",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0086",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0126",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0128",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0043",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0066",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0045",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0148",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0010",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0143",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0033",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0094",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0101",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0077",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0097",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-1002-MALFORMED",
+      "status": "rejected",
+      "reason": "findings must be a non-empty list"
+    },
+    {
+      "study_id": "STUDY-0129",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0064",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0001",
+      "status": "accepted",
+      "reason": null
+    },
+    {
+      "study_id": "STUDY-0011",
+      "status": "accepted",
+      "reason": null
+    }
+  ]
+}
